@@ -74,9 +74,9 @@ I’m passionate about developing modern, data-driven systems that make business
 ---
 
 ## 🎓 Education
-🎓 **Bachelor of Business Administration**, University of Prince Edward Island *(Graduating 2026)*
-🎓 **Accounting Technology Diploma**, Holland College *(2013)*
-🔥 **Level 1 Fire Fighting**, PEI Fire Fighters Association *(2007)*
+- 🎓 **Bachelor of Business Administration**, University of Prince Edward Island *(Graduating 2026)*
+- 🎓 **Accounting Technology Diploma**, Holland College *(2013)*
+- 🔥 **Level 1 Fire Fighting**, PEI Fire Fighters Association *(2007)*
 
 ---
 
