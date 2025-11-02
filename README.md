@@ -19,28 +19,28 @@ I’m passionate about developing modern, data-driven systems that make business
 ## 🧰 Technical Skills
 
 ### 💻 Programming Languages & Frameworks
-**Java**
-**Python** (Automation, Data Processing, GUI, Reporting)
-**Node.js / JavaScript / TypeScript**
-**PHP (Symfony, WordPress, Moodle, Laravel)**
-**React.js / Angular / Bootstrap / jQuery / TailwindCSS / Vite**
-**SQL / MySQL / MySQL2**
-**Android Development** (Java, Cordova, Capacitor, React Native)
-**Docker / Electron / NSIS / WiX**
-**Google Cloud / Microsoft Azure**
+- **Java**
+- **Python** (Automation, Data Processing, GUI, Reporting)
+- **Node.js / JavaScript / TypeScript**
+- **PHP (Symfony, WordPress, Moodle, Laravel)**
+- **React.js / Angular / Bootstrap / jQuery / TailwindCSS / Vite**
+- **SQL / MySQL / MySQL2**
+- **Android Development** (Java, Cordova, Capacitor, React Native)
+- **Docker / Electron / NSIS / WiX**
+- **Google Cloud / Microsoft Azure**
 
 ---
 
 ### 🐍 Python Libraries & Tools utilized in some of my repositories
-`pdf2image` • `tkinter` • `Pillow` • `reportlab` • `pandas` • `numpy` • `fitz` (PyMuPDF)
-`pygame` • `PyPDF2` • `pdfplumber` • `mysql` • `cryptography` • `ftplib`
+`pdf2image` • `tkinter` • `Pillow` • `reportlab` • `pandas` • `numpy` • `fitz` (PyMuPDF) •
+`pygame` • `PyPDF2` • `pdfplumber` • `mysql` • `cryptography` • `ftplib` •
 `xlwings` • `openpyxl` • `smtplib` • `escpos`
 
 ---
 
 ### 🌐 JavaScript / Node.js Ecosystem
-`express` • `bcrypt` • `cors` • `nodemailer`
-`vite` • `react` • `angular` • `bootstrap` • `jquery` • `tailwindcss`
+`express` • `bcrypt` • `cors` • `nodemailer` •
+`vite` • `react` • `angular` • `bootstrap` • `jquery` • `tailwindcss` •
 `cordova` • `capacitor`
 
 ---
